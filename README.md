@@ -64,3 +64,7 @@ Mobile application
 Crop-specific recommendations
 Cloud data storage
 SMS / notification alerts
+
+## 📄 Project Presentation
+
+[View ArgoSmart Project Presentation](./ArgoSmart-Project-Presentation.pptx)
